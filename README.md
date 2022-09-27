@@ -4,8 +4,5 @@
  - In GDW, I have the role of a programmer.
  With this role, I expect to make quality player controller and make the game feel good to play.
  ---
-**Week 1 and 2:**
-In the first two weeks, I have created a simple unity scene where there are enemies, interactables, and player.
-Both the players and enemies can shoot at eachother and the player may move as they wish with jumping and basic obstacles included.
-> These weeks, I've learnt how to use an input system that unity has. I've learnt the singleton design pattern and understood it further.
-> I've also learnt how we can implement shooting and how simple it is to have animations and make them look seamless.
+I used the tutorial's code as reference when making mine. I fell behind during class and was not able to complete it, thus had to look at and use the code provided.
+I also used a third party asset to complete the assignment as it was also given to us prior to starting.
